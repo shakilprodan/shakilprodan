@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shakil</h1>
+<h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">you can learn gitHub from here.</h3>
 
 - 🌱 I’m currently learning **Django**
